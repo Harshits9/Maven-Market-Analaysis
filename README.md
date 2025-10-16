@@ -2,7 +2,7 @@
 
 An end-to-end **Power BI project** analyzing sales and performance data for Maven Market — focusing on revenue trends, profit margins, transactions, and regional performance across North America (USA, Canada, Mexico).
 
-![Dashboard Preview](https://github.com/Harshits9/Maven-Market-Dashboard/blob/main/MavenProject.png)
+![Dashboard Preview]([https://github.com/Harshits9/Maven-Market-Dashboard/blob/main/MavenProject.png](https://github.com/Harshits9/Maven-Market-Analaysis/blob/main/MarketOverview.png))
 
 ---
 
